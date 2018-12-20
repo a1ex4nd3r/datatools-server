@@ -258,8 +258,8 @@
         <!-- Used for loading/fetching/writing GTFS entities (also provides access to commons-io and AWS S3 SDK). -->
         <dependency>
             <groupId>com.conveyal</groupId>
-            <artifactId>gtfs-lib</artifactId>
-            <version>4.1.1</version>
+            <artifactId>gtfs-lib2</artifactId>
+            <version>1.0.0</version>
         </dependency>
 
         <!-- Used for data-tools application database -->
